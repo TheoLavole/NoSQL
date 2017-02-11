@@ -1,0 +1,1 @@
+db.development.aggregate([{$match:{borough: $or:[{'MANHATTAN'},{'BROOKLYN'}]}},{$group:{_id:'$borough',total:{$avg:'$avg_rent'}}},{$sort :{total:-1}}])

@@ -1,0 +1,6 @@
+https://data.cityofnewyork.us/Public-Safety/NYC-Park-Crime-Data/ezds-sqp6  								park crime				Tout gardé
+https://data.cityofnewyork.us/Recreation/NYC-Parks-Monuments/6rrm-vxj9										Liste des monuments			Je n'ai pas tout gardé 
+https://data.cityofnewyork.us/Business/2012-NYC-Farmers-Market-List/b7kx-qikm								Liste des marchés par quartier		Pas tout
+https://data.cityofnewyork.us/Health/NYC-Health-and-Hospitals-Corporation-Facilities/ymhw-9cz9 		Hopitaux par quartier			Pas tout
+https://data.cityofnewyork.us/Recreation/DCLA-Cultural-Organizations/u35m-9t32							Organisations culturelles par quartier	Pas touts
+https://data.cityofnewyork.us/Public-Safety/Ready-NY-Events/hyur-qpyf										Evenements par quartier et adresse
